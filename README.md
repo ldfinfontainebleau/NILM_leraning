@@ -21,8 +21,8 @@
 |IHEPCDS	  |1 minute	      |4 years	     |France                    |[Link](http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption)|
 |OCTES	    |7 secs	        |4-13 months	 |Finland, Iceland, Scotland|[Link](http://octes.oamk.fi/final/)|
 |SMART*	    |1 Hz	          |3 months	     |USA                       |[Link](http://traces.cs.umass.edu/index.php/Smart/Smart)|
-|EncoredTV  |		            |1 month	     |Japan                     |[Link](http://www.nilm.eu/ http://www.encored.co.jp/)|
-|Energy Smart Home Lab Dataset|1Hz or 0.5Hz||                         |[Link](http://www.aifb.kit.edu/web/Kaibin_Bao/en)|
+|EncoredTV  |		            |1 month	     |Japan                     |[Link](http://www.encored.co.jp/)|
+|Energy Smart Home Lab Dataset|1Hz or 0.5Hz|                          |[Link](http://www.aifb.kit.edu/web/Kaibin_Bao/en)|
 |COOLL	    |100 kHz	      |6 seconds	   |France                    |[Link](https://coolldataset.github.io/)|
 |LIT-Dataset|15 kHz	        |30s to hours  |Brazil	                  |[Link](http://www.dainf.ct.utfpr.edu.br/~douglas/LIT_Dataset/)|
 |ENERTALK	  |15 Hz		      |              |Korea	                    |[Link](https://github.com/ch-shin/ENERTALK-dataset)|
